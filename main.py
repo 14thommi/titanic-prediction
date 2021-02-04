@@ -17,6 +17,5 @@ test5 = 5
 
 test6 = 5
 
-teste = 7
 
 # Why not test this again
