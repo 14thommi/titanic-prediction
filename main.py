@@ -19,4 +19,5 @@ test6 = 5
 
 test7 = 'hi'
 
+test8 = "whats up"
 # Why not test this again
